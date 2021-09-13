@@ -1,0 +1,26 @@
+"ID" "GRATING_PANELS"
+"Name" "Grating Panels"
+"Item"
+{
+	"ID" "ITEM_SAISMEE_GRATING_PANEL"
+	"Version"
+	{
+		"ID"    "VER_DEFAULT"
+		"Styles"
+		{
+			"ANY_STYLE" "clean/grating_panel"
+		}
+	}
+}
+"Item"
+{
+	"ID" "ITEM_SAISMEE_GRATING_PANEL_LONG"
+	"Version"
+	{
+		"ID"    "VER_DEFAULT"
+		"Styles"
+		{
+			"ANY_STYLE" "clean/grating_panel_long"
+		}
+	}
+}
